@@ -1,3 +1,9 @@
 build/
 /tags
 /bazel-*
+
+# Orange specific
+**/bin/
+**/bin-int/
+**.vcxproj
+**.vcxproj.filters
